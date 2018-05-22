@@ -10,6 +10,7 @@ The optimal colloid orientation and position relative to the interface tend to
 maximize the area of water/oil interface covered, while localizing the polar side in water and the apolar side in oil.
 An orientational phase transition is observed as a function of the colloid shape and surface tension parameters.
 
+
 ## Build and run
 
 ```sh
