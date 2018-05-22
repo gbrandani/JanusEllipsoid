@@ -40,9 +40,9 @@ public class JanusEllipsoidControlPanel extends JPanel {
 	private NumberField sigmadphiField = new NumberField(1.0, scientificFormat);
 	private JLabel      gammaLabel     = new JLabel("gamma");
 	private NumberField gammaField     = new NumberField(1.0, roundToTwoDP);
-	private JLabel      costhetaALabel = new JLabel("cos(thetaA)");
+	private JLabel      costhetaALabel = new JLabel("cos(thetaY)");
 	private NumberField costhetaAField = new NumberField(1.0, roundToTwoDP);
-	private JLabel      costhetaPLabel = new JLabel("cos(thetaP)");
+	private JLabel      costhetaPLabel = new JLabel("cos(thetaR)");
 	private NumberField costhetaPField = new NumberField(1.0, roundToTwoDP);
 	private JButton   startStopButton  = new JButton("Start");
 
